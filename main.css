@@ -6,6 +6,7 @@ body{
  background: #88d5e9;
  color: #333;
  font-family: 'calibri', sans-serif;
+ text-transform: capitalize;
 }
 .container{
  text-align: center;
@@ -23,6 +24,8 @@ button{
  background: #6cc3d8;
  border-radius: 8px;
  border: none;
+ text-transform: capitalize;
+
 }
 
 button:hover{
